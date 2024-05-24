@@ -1,0 +1,27 @@
+/* Basic Styling */
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+/* ... (Add your header, navigation, and footer styles here) ... */
+
+
+/* Parallax Styling */
+.parallax {
+    min-height: 400px; /* Adjust as needed */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about { 
+    background-image: url("https://vcoms.wildapricot.org/Resources/Pictures/About-Us.jpg"); 
+}
+
+#contact {
+    background-image: url("8https://svgsilh.com/svg/304080.svg");
+}
+
+/* Portfolio Styling */
+.projects { /* ... (Style your project containers) */ }
